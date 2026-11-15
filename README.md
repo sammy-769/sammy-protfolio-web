@@ -63,7 +63,7 @@ resume/
 https://www.linkedin.com/in/sammy-shah-saleh-0aa0403b7
 
 **GitHub:**  
-https://github.com/Sammy-769
+https://github.com/sammy-769
 
 
 ## Acknowledgements
